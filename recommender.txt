@@ -1,0 +1,4 @@
+requests
+easyocr
+numpy
+beautifulsoup4
